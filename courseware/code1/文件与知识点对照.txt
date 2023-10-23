@@ -1,0 +1,4 @@
+Cp2_1_1.py  Python的基本词法单位
+Cp2_1_2.py 源程序的书写格式与基本规则
+Cp2_2_1.py Python的基本数据类型
+Cp2_2_2.py 字符串（string）类型
